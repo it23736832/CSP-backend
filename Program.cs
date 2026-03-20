@@ -7,7 +7,10 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("Frontend", policy =>
     {
-        policy.WithOrigins("http://localhost:3000")
+        policy.WithOrigins(
+                "http://localhost:3000",
+                "https://csp-frontend-anbddvh2egfmg5eh.centralindia-01.azurewebsites.net"
+            )
             .AllowAnyHeader()
             .AllowAnyMethod();
     });
