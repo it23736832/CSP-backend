@@ -31,3 +31,4 @@ C:\Users\Himasha\OneDrive - Sri Lanka Institute of Information Technology\Docume
 C:\Users\Himasha\OneDrive - Sri Lanka Institute of Information Technology\Documents\Y3S1\my notes\CSP\labsheet5_csp\backend\obj\Debug\net10.0\backend.pdb
 C:\Users\Himasha\OneDrive - Sri Lanka Institute of Information Technology\Documents\Y3S1\my notes\CSP\labsheet5_csp\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
 C:\Users\Himasha\OneDrive - Sri Lanka Institute of Information Technology\Documents\Y3S1\my notes\CSP\labsheet5_csp\backend\obj\Debug\net10.0\ref\backend.dll
+C:\Users\Himasha\OneDrive - Sri Lanka Institute of Information Technology\Documents\Y3S1\my notes\CSP\labsheet5_csp\backend\obj\Debug\net10.0\backend.sourcelink.json
