@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDCMcx+BO/c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Himasha\\OneDrive - Sri Lanka Institute of Information Technology\\Documents\\Y3S1\\my notes\\CSP\\labsheet5_csp\\backend\\backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Himasha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Himasha\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
